@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&family=Pacifico&display=swap');
+
+body{
+    margin: 0rem;
+    background-color: #FEF3C7;
+}
+
+textarea{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    font-family: 'Crimson Text', serif;
+    font-size: larger;
+    border: solid;
+    background-color: #FEF3C7;
+    resize: none;
+    border-radius: 20px;
+    margin-top: 1rem;
+}
+
+textarea:focus{
+    outline: none;
+}
+
+.center{
+    max-width: 600px;
+    margin-top: 3rem;
+    margin: auto;
+}
+
+#output{
+    border: 1rem black solid;
+    height: 10vh;
+    padding: 1rem;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Pacifico', cursive;
+    font-size: larger;
+    border: solid;
+    border-radius: 20px;
+    margin-top: 2rem;
+}
+
+.heading{
+    margin: 0rem;
+    padding: 0.01rem;
+    margin: auto;
+    background-color: #FBBF24;
+    border-top-left-radius: 4rem;
+    font-family: 'Crimson Text', serif;
+    font-size: x-large;
+}
+
+.heading h1{
+    display: block;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 50px;
+    float: left;
+}
+
+.center-head{
+    max-width: 755pc;
+    margin: auto;
+}
+
+.img1{
+    float: left;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.img2{
+    margin-left:24rem;
+}
+
+.btn-div{
+    max-width: 600px;
+    margin: 2rem;
+}
+
+.btn {
+    border-radius: 20px;
+    background-color: #454c57;
+    border: 2px solid white;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 178px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    opacity: 1;
+}
+
+.head-output {
+    font-size: large;
+    margin: 3rem 0rem 1rem 2.6rem;
+    font-family: 'Redressed', cursive;
+}
+
+.footer{
+    margin: 0rem;
+    padding: 2rem;
+    background-color: #FBBF24;
+    border-bottom-right-radius: 4rem;
+    font-family: 'Langar', cursive;
+    text-align: center;
+    font-size: 20px
+}
+
+p{
+    margin: auto;
+    max-width: 700px;
+    align-content: center
+}
