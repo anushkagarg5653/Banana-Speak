@@ -1,7 +1,9 @@
 <h1 align="center">Banana-Speak</h1>
 
   <p align="center">
-    It is a translator which convert English text to Banana Language
+   Are you a fan of minions?
+Did you know that the gibberish they say is an actual language!
+Use the translator to convert your text from English to Banana language.
     <br />
 
 <br />
